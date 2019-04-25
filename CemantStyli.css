@@ -1,0 +1,44 @@
+body{
+    background:url(fon2.jpg);
+    background-size: 150%;
+    top: center;
+    background-repeat: no-repeat no-repeat;
+    
+    
+        
+}
+header{
+    margin-top: 0;
+ 
+}
+
+table{
+    margin-top: 50px;
+    padding-top: 50px;
+    background:url(fon4.jpg);
+    width: 400px;
+    border: 1px solid grey;
+    <!--border-collapse: collapse;-->
+    font-family: Rubik;
+    font-size: 28px;
+}
+caption{
+    font-family: Roboto;
+    font-size: 45px;
+    color: darkblue;
+}
+
+th {border: 1px solid grey;
+   
+
+}
+
+td {border: 1px solid grey;
+
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    
+}
