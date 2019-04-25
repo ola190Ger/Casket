@@ -13,8 +13,8 @@ header{
 }
 
 table{
-    margin-top: 35px;
-    padding-top: 35px;
+    margin-top: 30px;
+    padding-top: 30px;
     background:url(fon4.jpg);
     width: 400px;
     border: 1px solid grey;
@@ -39,6 +39,6 @@ td {border: 1px solid grey;
 
 footer{
     position: absolute;
-    bottom: 0;
+    bottom: 0px;
     
 }
